@@ -1,0 +1,5 @@
+https://docs.microsoft.com/en-us/learn/certifications/azure-developer?wt.mc_id=learningredirect_certs-web-wwl
+https://rafael-pereira.medium.com/tips-and-resources-to-succeed-on-the-az-204-certification-exam-ef9a766d7899
+https://www.thomasmaurer.ch/2020/03/az-204-study-guide-developing-solutions-for-microsoft-azure/
+
+https://techcommunity.microsoft.com/t5/azure/my-path-to-the-microsoft-certified-azure-developer-associate-az/m-p/1743158
